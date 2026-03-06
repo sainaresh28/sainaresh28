@@ -47,7 +47,7 @@ Personal finance platform with an AI insights engine (Groq × LLaMA 3.1), real-t
 
 **[Kermedix](https://www.kermedix.in)** — Healthcare Platform · 2026
 
-Digital health record platform for migrant workers in Kerala. Secure medical history, multi-provider access, real-time record sync. Co-built with Ashutosh Patro.
+Digital health record platform for migrant workers in Kerala. Secure medical history, multi-provider access, real-time record sync. Co-built with [Ashutosh Patro](https://github.com/ashutoshpatrodevops).
 
 ![](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
