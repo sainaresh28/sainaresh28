@@ -136,7 +136,7 @@ AI-powered museum platform with a multilingual chatbot, sentiment-aware recommen
 ![](https://img.shields.io/badge/Sentiment%20Analysis-000000?style=flat-square)
 ![](https://img.shields.io/badge/Leaflet.js-000000?style=flat-square&logo=leaflet&logoColor=white)
 
-[![](https://img.shields.io/badge/Live%20→%20musema-explore.vercel.app-ffffff?style=flat-square&labelColor=000000)](https://musema-explore.vercel.app)
+[![](https://img.shields.io/badge/Live→musema--explore.vercel.app-white?style=flat-square&labelColor=white&color=white)](https://musema-explore.vercel.app)
 
 </td>
 </tr>
