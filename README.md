@@ -124,7 +124,7 @@ A modern personal portfolio bringing together projects, technical skills, certif
 </td>
 <td width="50%" valign="top">
 
-**MuseMate** — AI Museum Booking & Visitor Assistant · 2025
+**[Musema](https://musema-explore.vercel.app)** — AI Museum Booking & Visitor Assistant · 2025
 ![](https://img.shields.io/badge/Hackathon-000000?style=flat-square)
 
 AI-powered museum platform with a multilingual chatbot, sentiment-aware recommendations, and LLM-driven automated ticket booking.
@@ -135,6 +135,8 @@ AI-powered museum platform with a multilingual chatbot, sentiment-aware recommen
 ![](https://img.shields.io/badge/LLM%20APIs-000000?style=flat-square)
 ![](https://img.shields.io/badge/Sentiment%20Analysis-000000?style=flat-square)
 ![](https://img.shields.io/badge/Leaflet.js-000000?style=flat-square&logo=leaflet&logoColor=white)
+
+[![](https://img.shields.io/badge/Live%20→%20musema-explore.vercel.app-ffffff?style=flat-square&labelColor=000000)](https://musema-explore.vercel.app)
 
 </td>
 </tr>
